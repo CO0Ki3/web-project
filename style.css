@@ -1,0 +1,8 @@
+html, body {
+  background-color: rgb(48, 150, 255);
+}
+
+.logo {
+  display: flex;
+  font-size: 1000px;
+}
